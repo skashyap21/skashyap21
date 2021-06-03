@@ -1,10 +1,9 @@
 ### Hi there, I'm Sudhakar Kashyap - aka [skashyap21][website] 👋
 
 ## I'm a Developer! 
-- 🔭 I’m currently working on a ZERO-To-Mastery Courses
+- 🔭 I’m currently working in Infosys Ltd.
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Master in DS and ALGO
 - ⚡ Fun fact: I love to Cook and Watch TV Series
 
 ### Connect with me:
